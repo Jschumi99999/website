@@ -49,7 +49,7 @@ html {
    justify-content: center;
     padding: 50px;
     height: auto;
-    gap: 70px
+    gap: 40px
   }
 
   @media screen and (max-width: 768px)  {
@@ -75,7 +75,7 @@ html {
   .contact{
     font-size:2.0em;
     text-align: left;
-    padding-bottom: 40px;
+    padding-top: 40px;
   }
 
   .contact span {
@@ -106,8 +106,15 @@ html {
   50% { border-color: #d6d2cb; }
 }
 
+.contactText{
+  font-weight: 200;
+    font-size: 0.5em;
+    max-width: 350px;
+    margin-top: 20px;
+}
+
  .imprint {
   text-align: center;
-   font-weight: 100;
+  font-weight: 100;
   font-size:0.2em;
  }
