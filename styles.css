@@ -22,7 +22,7 @@ html {
 
 
   .introContainer{
-    background-image: url("img/intro.jpeg");
+    background-image: url("intro.jpeg");
     background-size: cover;
     width: 100%;
     height: 60vh;
